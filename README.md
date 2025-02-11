@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on a real-time chat application with React.js and Firebase.
-- 🌱 I’m currently learning React.js, Firebase, and expanding my backend skills.
-- 👯 I’m looking to collaborate on  real-time systems and secure fintech solutions.
-- 🤔 I’m looking for help with advanced Firebase features and optimizing real-time communication.
-- 💬 Ask me about backend development, React.js, Firebase, building real-time applications, or my experience with security features in fintech solutions.
-- 📫 How to reach me: NchaveleloSithole@gmail.com.
+- 🔭 I’m currently working on **a real-time chat application with React.js and Firebase.**
+- 🌱 I’m currently **learning React.js, Firebase, and expanding my backend skills.**
+- 👯 I’m looking to collaborate on  **real-time systems and secure fintech solutions.**
+- 🤔 I’m looking for help with **advanced Firebase features and optimizing real-time communication.**
+- 💬 Ask me about **backend development, React.js, Firebase, building real-time applications, or my experience with security features in fintech solutions.**
+- 📫 How to reach me: **NchaveleloSithole@gmail.com.**
 - 😄 Pronouns: She/her.
 
 # 💫 About Me:
